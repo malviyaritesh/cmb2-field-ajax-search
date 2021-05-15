@@ -3,9 +3,10 @@
     "description": "AJAX search field for posts, users and terms. Fork of https://github.com/rubengc/cmb2-field-ajax-search.",
     "type": "library",
     "require": {},
+    "version": "1.0.0",
     "autoload": {
         "psr-4": {
-            "BBI\\Cmb2FieldsAjaxSearch\\": "."
+            "BBI\\Cmb2FieldAjaxSearch\\": "."
         }
     }
 }

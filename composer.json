@@ -4,9 +4,9 @@
     "type": "library",
     "require": {},
     "version": "1.0.0",
+    "keywords": ["wordpress", "cmb2", "meta"],
+    "homepage": "https://github.com/rubengc/cmb2-field-ajax-search",
     "autoload": {
-        "psr-4": {
-            "BBI\\Cmb2FieldAjaxSearch\\": "."
-        }
+        "files": ["cmb2-field-ajax-search.php"]
     }
 }
